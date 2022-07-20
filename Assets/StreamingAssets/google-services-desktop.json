@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590192864537",
+    "firebase_url": "https://ventigrafirebase-default-rtdb.firebaseio.com",
+    "project_id": "ventigrafirebase",
+    "storage_bucket": "ventigrafirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590192864537:android:7753da5939b7c0872a2988",
+        "android_client_info": {
+          "package_name": "com.SANLAB.VentigraBASF"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590192864537-c0uo9i1euhj2iqs2hgqfeodvjdkjeivt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxgIMAJsYDabjqQcKD77jrb8Cu8U2g1uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590192864537-c0uo9i1euhj2iqs2hgqfeodvjdkjeivt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://ventigrafirebase-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">590192864537</string>
+  <string name="google_storage_bucket" translatable="false">ventigrafirebase.appspot.com</string>
+  <string name="project_id" translatable="false">ventigrafirebase</string>
+  <string name="google_api_key" translatable="false">AIzaSyBxgIMAJsYDabjqQcKD77jrb8Cu8U2g1uI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBxgIMAJsYDabjqQcKD77jrb8Cu8U2g1uI</string>
+  <string name="google_app_id" translatable="false">1:590192864537:android:7753da5939b7c0872a2988</string>
+  <string name="default_web_client_id" translatable="false">590192864537-c0uo9i1euhj2iqs2hgqfeodvjdkjeivt.apps.googleusercontent.com</string>
+</resources>
